@@ -1,6 +1,4 @@
-Here’s the full README in Markdown; you can paste this directly into `README.md`:
 
-```markdown
 # Book Genre RAG System
 
 This project processes a large books dataset, enriches each entry with high‑quality descriptions and genres, and uses the result as the basis for a retrieval‑augmented generation (RAG) pipeline over books.
