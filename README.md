@@ -180,9 +180,3 @@ This is primarily a learning/experimentation project, but you can:
 - Add evaluation metrics for genre predictions or RAG quality
 
 Feel free to open issues or propose improvements if you fork the repository.
-
-## License
-
-Add your preferred license here (e.g. MIT, Apache‑2.0, or leave this section out until you decide).
-
-```
