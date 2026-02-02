@@ -1,0 +1,12 @@
+pandas
+requests
+openai
+kaggle
+numpy
+tqdm
+
+# if you actually use them in rag-generator.ipynb:
+transformers
+torch
+faiss-cpu
+scikit-learn
